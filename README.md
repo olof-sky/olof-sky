@@ -1,6 +1,6 @@
 ![github banner ps](https://user-images.githubusercontent.com/82142829/176305440-b4205d8f-844e-4df1-a9bc-7acae29ce18a.png)
 
-# -OLOF-SKY-
+# -olof-sky-
 ### ⚡ Welcome to my github-page! ⚡
 
 
