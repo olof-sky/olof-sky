@@ -1,6 +1,7 @@
-![github banner](https://user-images.githubusercontent.com/82142829/176301606-25ae68b4-56f3-469f-b06a-3ca1e42b5667.png)
+![github banner ps](https://user-images.githubusercontent.com/82142829/176305440-b4205d8f-844e-4df1-a9bc-7acae29ce18a.png)
 
-## Welcome to my github-page!
+# -OLOF-SKY-
+### ⚡ Welcome to my github-page! ⚡
 
 
 ### I'm a junior developer with experience in Java, Javascript/JS-Frameworks, Python, HTML, CSS and MySQL databases. 
