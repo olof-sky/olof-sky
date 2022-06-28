@@ -1,6 +1,6 @@
 ![github banner](https://user-images.githubusercontent.com/82142829/176301606-25ae68b4-56f3-469f-b06a-3ca1e42b5667.png)
 
-### ⚡ Welcome to my github-page! ⚡
+### Welcome to my github-page!
 
 - 🌱 I’m currently focusing on learning more about frontend web-development
 - 👯 I’m looking to collaborate on different open-source projects with the intention of learning more about the process of developing together with a team
