@@ -7,8 +7,8 @@
 
 
 - 🌱 I’m currently focusing on learning more about web development
-- 👯 I’m looking to collaborate on different open source projects with the intention of learning more about development in a team
-- 💬 If you need help from a fellow coder, feel free to ask me and i'll do my best to contribute
+- 👯 I’m looking to collaborate on different open source projects with the intention of learning more about developing together with a team
+- 💬 If you need help from a fellow coder, feel free to ask me and I'll do my best to contribute
 
 
 
