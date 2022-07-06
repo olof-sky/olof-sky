@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently focusing on learning more about web development
-- 🔭 I’m currently working on my personal portfolio and grabbing issues in the open source community
+- 🔭 I’m working on my personal portfolio and grabbing issues in the open source community
 - 👯 I’m looking to collaborate on different open source projects with the intention of learning more about developing together with a team
 - 💬 If you need help from a fellow coder, feel free to ask me and I'll do my best to contribute
 
