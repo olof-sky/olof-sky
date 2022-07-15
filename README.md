@@ -6,11 +6,12 @@
 #### I'm a junior developer with experience in Java, Javascript/JS-Frameworks, Python, HTML, CSS and MySQL databases.
 
 
-- 🌱 I’m currently focusing on learning more about web development
-- 🔭 I’m working on my personal portfolio and grabbing issues in the open source community
-- 👯 I’m looking to collaborate on different open source projects with the intention of learning more about developing together with a team
+- 🌱 I’m currently focusing on sharpening my skills in web development
+- 🛠️ I’ve been working on my personal portfolio lately and grabbing issues in the open source community
+- 👯 I’m looking to collaborate on a range of open source projects with the intention of developing regularly together with a team
 - 💬 If you need help from a fellow coder, feel free to ask me and I'll do my best to contribute
 
+Check out my personal portfolio at https://olofschylander.com/
 
 
 <!--
