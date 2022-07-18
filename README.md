@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently focusing on sharpening my skills in web development
-- 🛠️ I’ve been working on my personal portfolio and looking into .NET development
+- 🛠️ I’ve been working on my personal portfolio and preparing for the startup of a new project
 - 👯 I’m looking to collaborate on a range of open source projects with the intention of developing regularly together with a team
 - 💬 If you need help from a fellow coder, feel free to ask me and I'll do my best to contribute
 
