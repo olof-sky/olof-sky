@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on a range of open source projects with the intention of developing regularly together with a team
 - 💬 If you need help from a fellow coder, feel free to ask me and I'll do my best to contribute
 
-Check out my personal portfolio at olofschylander.com
+Check out my personal portfolio at [olofschylander.com]{https://olofschylander.com}
 
 
 <!--
