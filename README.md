@@ -3,7 +3,7 @@
 # Hi, I'm Olof
 ### Welcome to my github page!
 
-#### I'm a junior developer with experience in Java, Javascript/JS-Frameworks, Python, HTML, CSS and MySQL databases.
+#### I'm a junior developer with experience in Java, Javascript, React, Vue, Python, HTML, CSS and MySQL databases.
 
 
 - 🌱 I’m currently focusing on sharpening my skills in web development
