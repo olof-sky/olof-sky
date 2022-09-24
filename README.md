@@ -6,7 +6,7 @@
 #### I'm a junior developer with experience in Java, Javascript, React, Vue, Python, HTML, CSS and MySQL databases.
 
 
-- 🌱 I’m currently focusing on sharpening my skills in web development and attending courses
+- 🌱 I’m currently focusing on sharpening my skills in web development and UI/UX while attending a bootcamp-course at Lexicon
 - 🛠️ I’ve been working on my personal portfolio and starting a [new project](https://github.com/olof-sky/kanban-app) where i will be using node.js, express, MySql and React
 - 👯 I’m looking to collaborate on a range of open source projects with the intention of developing regularly together with a team
 - 💬 If you need help from a fellow coder, feel free to ask me and I'll do my best to contribute
